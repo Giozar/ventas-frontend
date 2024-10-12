@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.sale-page-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.client-form, .product-list, .payment-method, .receipt {
+    margin-bottom: 20px;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+}
+
+label {
+    display: block;
+    margin: 5px 0;
+}
+
+input {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+.receipt {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}

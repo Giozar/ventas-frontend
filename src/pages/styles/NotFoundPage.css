@@ -1,0 +1,29 @@
+.notfound-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .notfound-title {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+  
+  .notfound-description {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .notfound-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    background-color: #3f95cf;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+  
