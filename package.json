@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "rsbuild dev --open",
     "build": "rsbuild build",
-    "preview": "rsbuild preview"
+    "start": "rsbuild preview"
   },
   "dependencies": {
     "react": "^18.3.1",
